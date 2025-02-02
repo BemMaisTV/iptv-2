@@ -75,3 +75,5 @@ http://trn10.tulix.tv/gt-tvnet/index.m3u8
 #EXTINF:24, Thttps://trn10.tulix.tv/gt-tivibuspor1/index.m3u8
 #EXTINF:40, ULKE TV
 http://trn10.tulix.tv/gt-ulketv/index.m3u8
+#EXTINF:26, BEM MAIS TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
