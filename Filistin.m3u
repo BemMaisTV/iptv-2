@@ -10,3 +10,5 @@ http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="PS" tvg-logo="https://m.yilmaztv.cc/logo/ps.png" group-title="PALESTINE TV",Wattan TV
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="PS" tvg-logo="https://imgur.com/E6ILeP9" group-title="PALESTINE TV",Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
