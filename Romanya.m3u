@@ -496,3 +496,5 @@ https://edge-01.kino.watch/hit/index.m3u8
 https://edge-01.kino.watch/horror/index.m3u8
 #EXTINF:-1 tvg-country="RO" tvg-logo="https://m.yilmaztv.cc/logo/ro.png" group-title="ROMANIA TV",Кинокомедия
 http://46.174.83.66/Kinokomedia/index.m3u8
+#EXTINF:-1 tvg-country="RO" tvg-logo="https://imgur.com/E6ILeP9" group-title="ROMANIA TV",Bem Mais TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
